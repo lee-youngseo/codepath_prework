@@ -7,7 +7,7 @@ User can tap a button to change the text color of the label.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/gFS8H0o" width=200><br>
+<img src="https://imgur.com/a/tPzQCSc" width=200><br>
 
 
 ### Required User Stories
